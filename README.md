@@ -3,10 +3,10 @@
 > 人都有一个遗忘规律，很多时候我们都是在和遗忘做斗争。
 
 
-==Java-学习路线==：https://www.cnblogs.com/zwtblog/p/16122165.html
+Java-学习路线：https://www.cnblogs.com/zwtblog/p/16122165.html
 
 - [文章分类列表](https://www.cnblogs.com/zwtblog/tag/)
-- ==侧边栏支持搜索功能==
+- 侧边栏支持搜索功能
 
 
 阿里云网盘**分享**：
